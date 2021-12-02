@@ -18,7 +18,7 @@
       },
       "results": {
         "search": {
-          "query_id": "Query_25351",
+          "query_id": "Query_48075",
           "query_title": "k127_147_1_av_267.0000_len_1070",
           "query_len": 999,
           "query_masking": [
@@ -65,7 +65,7 @@
                   "num": 1,
                   "bit_score": 455.396,
                   "score": 246,
-                  "evalue": 4.51723e-123,
+                  "evalue": 4.64984e-123,
                   "identity": 757,
                   "query_from": 13,
                   "query_to": 998,
@@ -105,7 +105,7 @@
                   "num": 1,
                   "bit_score": 455.396,
                   "score": 246,
-                  "evalue": 4.51723e-123,
+                  "evalue": 4.64984e-123,
                   "identity": 757,
                   "query_from": 13,
                   "query_to": 998,
@@ -138,7 +138,7 @@
                   "num": 1,
                   "bit_score": 431.39,
                   "score": 233,
-                  "evalue": 7.61259e-116,
+                  "evalue": 7.83607e-116,
                   "identity": 749,
                   "query_from": 13,
                   "query_to": 998,
@@ -171,7 +171,7 @@
                   "num": 1,
                   "bit_score": 425.85,
                   "score": 230,
-                  "evalue": 3.54179e-114,
+                  "evalue": 3.64577e-114,
                   "identity": 750,
                   "query_from": 14,
                   "query_to": 998,
@@ -204,7 +204,7 @@
                   "num": 1,
                   "bit_score": 425.85,
                   "score": 230,
-                  "evalue": 3.54179e-114,
+                  "evalue": 3.64577e-114,
                   "identity": 750,
                   "query_from": 14,
                   "query_to": 998,
@@ -237,7 +237,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -270,7 +270,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -303,7 +303,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -336,7 +336,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -369,7 +369,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -402,7 +402,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -435,7 +435,7 @@
                   "num": 1,
                   "bit_score": 420.31,
                   "score": 227,
-                  "evalue": 1.64784e-112,
+                  "evalue": 1.69621e-112,
                   "identity": 756,
                   "query_from": 6,
                   "query_to": 998,
@@ -468,7 +468,7 @@
                   "num": 1,
                   "bit_score": 414.77,
                   "score": 224,
-                  "evalue": 7.66664e-111,
+                  "evalue": 7.8917e-111,
                   "identity": 748,
                   "query_from": 14,
                   "query_to": 998,
@@ -501,7 +501,7 @@
                   "num": 1,
                   "bit_score": 412.923,
                   "score": 223,
-                  "evalue": 2.75741e-110,
+                  "evalue": 2.83836e-110,
                   "identity": 766,
                   "query_from": 1,
                   "query_to": 998,
@@ -534,7 +534,7 @@
                   "num": 1,
                   "bit_score": 405.537,
                   "score": 219,
-                  "evalue": 4.61413e-108,
+                  "evalue": 4.74958e-108,
                   "identity": 764,
                   "query_from": 1,
                   "query_to": 998,
@@ -567,7 +567,7 @@
                   "num": 1,
                   "bit_score": 401.843,
                   "score": 217,
-                  "evalue": 5.96875e-107,
+                  "evalue": 6.14397e-107,
                   "identity": 748,
                   "query_from": 24,
                   "query_to": 998,
@@ -600,7 +600,7 @@
                   "num": 1,
                   "bit_score": 401.843,
                   "score": 217,
-                  "evalue": 5.96875e-107,
+                  "evalue": 6.14397e-107,
                   "identity": 763,
                   "query_from": 3,
                   "query_to": 998,
@@ -633,7 +633,7 @@
                   "num": 1,
                   "bit_score": 401.843,
                   "score": 217,
-                  "evalue": 5.96875e-107,
+                  "evalue": 6.14397e-107,
                   "identity": 751,
                   "query_from": 13,
                   "query_to": 998,
@@ -666,7 +666,7 @@
                   "num": 1,
                   "bit_score": 401.843,
                   "score": 217,
-                  "evalue": 5.96875e-107,
+                  "evalue": 6.14397e-107,
                   "identity": 763,
                   "query_from": 3,
                   "query_to": 998,
@@ -699,7 +699,7 @@
                   "num": 1,
                   "bit_score": 399.997,
                   "score": 216,
-                  "evalue": 2.14674e-106,
+                  "evalue": 2.20977e-106,
                   "identity": 762,
                   "query_from": 1,
                   "query_to": 998,
@@ -732,7 +732,7 @@
                   "num": 1,
                   "bit_score": 392.61,
                   "score": 212,
-                  "evalue": 3.59226e-104,
+                  "evalue": 3.69772e-104,
                   "identity": 732,
                   "query_from": 42,
                   "query_to": 998,
@@ -772,7 +772,7 @@
                   "num": 1,
                   "bit_score": 387.07,
                   "score": 209,
-                  "evalue": 1.67132e-102,
+                  "evalue": 1.72038e-102,
                   "identity": 752,
                   "query_from": 3,
                   "query_to": 998,
@@ -812,7 +812,7 @@
                   "num": 1,
                   "bit_score": 381.53,
                   "score": 206,
-                  "evalue": 7.77588e-101,
+                  "evalue": 8.00416e-101,
                   "identity": 760,
                   "query_from": 1,
                   "query_to": 998,
@@ -852,7 +852,7 @@
                   "num": 1,
                   "bit_score": 379.683,
                   "score": 205,
-                  "evalue": 2.79671e-100,
+                  "evalue": 2.87881e-100,
                   "identity": 747,
                   "query_from": 5,
                   "query_to": 998,
@@ -892,7 +892,7 @@
                   "num": 1,
                   "bit_score": 377.837,
                   "score": 204,
-                  "evalue": 1.00587e-99,
+                  "evalue": 1.0354e-99,
                   "identity": 750,
                   "query_from": 1,
                   "query_to": 998,
@@ -925,7 +925,7 @@
                   "num": 1,
                   "bit_score": 377.837,
                   "score": 204,
-                  "evalue": 1.00587e-99,
+                  "evalue": 1.0354e-99,
                   "identity": 680,
                   "query_from": 109,
                   "query_to": 998,
@@ -958,7 +958,7 @@
                   "num": 1,
                   "bit_score": 377.837,
                   "score": 204,
-                  "evalue": 1.00587e-99,
+                  "evalue": 1.0354e-99,
                   "identity": 541,
                   "query_from": 309,
                   "query_to": 998,
@@ -991,7 +991,7 @@
                   "num": 1,
                   "bit_score": 375.99,
                   "score": 203,
-                  "evalue": 3.61777e-99,
+                  "evalue": 3.72397e-99,
                   "identity": 678,
                   "query_from": 104,
                   "query_to": 998,
@@ -1024,7 +1024,7 @@
                   "num": 1,
                   "bit_score": 374.144,
                   "score": 202,
-                  "evalue": 1.30118e-98,
+                  "evalue": 1.33938e-98,
                   "identity": 757,
                   "query_from": 3,
                   "query_to": 998,
@@ -1057,7 +1057,7 @@
                   "num": 1,
                   "bit_score": 374.144,
                   "score": 202,
-                  "evalue": 1.30118e-98,
+                  "evalue": 1.33938e-98,
                   "identity": 649,
                   "query_from": 154,
                   "query_to": 998,
@@ -1090,7 +1090,7 @@
                   "num": 1,
                   "bit_score": 372.297,
                   "score": 201,
-                  "evalue": 4.67988e-98,
+                  "evalue": 4.81726e-98,
                   "identity": 528,
                   "query_from": 333,
                   "query_to": 998,
@@ -1130,7 +1130,7 @@
                   "num": 1,
                   "bit_score": 372.297,
                   "score": 201,
-                  "evalue": 4.67988e-98,
+                  "evalue": 4.81726e-98,
                   "identity": 525,
                   "query_from": 333,
                   "query_to": 998,
@@ -1163,7 +1163,7 @@
                   "num": 1,
                   "bit_score": 370.45,
                   "score": 200,
-                  "evalue": 1.68318e-97,
+                  "evalue": 1.7326e-97,
                   "identity": 680,
                   "query_from": 104,
                   "query_to": 998,
@@ -1196,7 +1196,7 @@
                   "num": 1,
                   "bit_score": 366.757,
                   "score": 198,
-                  "evalue": 2.17734e-96,
+                  "evalue": 2.24125e-96,
                   "identity": 738,
                   "query_from": 24,
                   "query_to": 998,
@@ -1229,7 +1229,7 @@
                   "num": 1,
                   "bit_score": 366.757,
                   "score": 198,
-                  "evalue": 2.17734e-96,
+                  "evalue": 2.24125e-96,
                   "identity": 527,
                   "query_from": 333,
                   "query_to": 998,
@@ -1262,7 +1262,7 @@
                   "num": 1,
                   "bit_score": 366.757,
                   "score": 198,
-                  "evalue": 2.17734e-96,
+                  "evalue": 2.24125e-96,
                   "identity": 523,
                   "query_from": 333,
                   "query_to": 998,
@@ -1295,7 +1295,7 @@
                   "num": 1,
                   "bit_score": 366.757,
                   "score": 198,
-                  "evalue": 2.17734e-96,
+                  "evalue": 2.24125e-96,
                   "identity": 523,
                   "query_from": 333,
                   "query_to": 998,
@@ -1328,7 +1328,7 @@
                   "num": 1,
                   "bit_score": 364.91,
                   "score": 197,
-                  "evalue": 7.83109e-96,
+                  "evalue": 8.06098e-96,
                   "identity": 740,
                   "query_from": 13,
                   "query_to": 998,
@@ -1368,7 +1368,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -1401,7 +1401,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 536,
                   "query_from": 309,
                   "query_to": 998,
@@ -1434,7 +1434,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 522,
                   "query_from": 333,
                   "query_to": 998,
@@ -1467,7 +1467,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 522,
                   "query_from": 333,
                   "query_to": 998,
@@ -1500,7 +1500,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 523,
                   "query_from": 333,
                   "query_to": 998,
@@ -1533,7 +1533,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 523,
                   "query_from": 333,
                   "query_to": 998,
@@ -1566,7 +1566,7 @@
                   "num": 1,
                   "bit_score": 361.217,
                   "score": 195,
-                  "evalue": 1.01302e-94,
+                  "evalue": 1.04275e-94,
                   "identity": 681,
                   "query_from": 105,
                   "query_to": 995,
@@ -1599,7 +1599,7 @@
                   "num": 1,
                   "bit_score": 359.37,
                   "score": 194,
-                  "evalue": 3.64345e-94,
+                  "evalue": 3.75041e-94,
                   "identity": 752,
                   "query_from": 3,
                   "query_to": 998,
@@ -1619,6 +1619,39 @@
               "num": 47,
               "description": [
                 {
+                  "id": "gi|2126533074|gb|MW936632.1|",
+                  "accession": "MW936632",
+                  "title": "Archips sp. 2019HN00066 mitochondrion, complete genome",
+                  "taxid": 2890206,
+                  "sciname": "Archips sp. 2019HN00066"
+                }
+              ],
+              "len": 15389,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 359.37,
+                  "score": 194,
+                  "evalue": 3.75041e-94,
+                  "identity": 723,
+                  "query_from": 42,
+                  "query_to": 998,
+                  "query_strand": "Plus",
+                  "hit_from": 6309,
+                  "hit_to": 7252,
+                  "hit_strand": "Plus",
+                  "align_len": 975,
+                  "gaps": 49,
+                  "qseq": "CCTTATTAGCTTCAATAATAAACTCTAA-ATATAAGCTATTTATATTATTATATTTATCTATCTTAAAAATATAATAAAAACTAAT-ATTATTCATAAAATAAAAATGAATAGATAAAATTTTAATCTATTATTTTGATAAAAATAATAAATAAAAGTATATTTTACTAAAATCAAT-TTTAACCCATATCTAGAATAATA-TTCTAATCATCCTATATCTA-AATTTTTAACTAA-TTTCACTCTATATGTATAGAAAT-TTTTTGTTAAAAAATAAGTAGATAAATTAGGTATAAATCACattactcttaaaaataatcttaaactatatctatttaaaaacttatttaaagaaaataaatttattGAACTAA-TAAGATACCCTAAAACAATCCCCTTCAA-TGTaaaaaaaataactaaaagttttattcttaaagaaacataaattaaataaggataataaaataataatCATATTATTATTCTACCAGAAAATAATCTTATTGCtaataaaacaaatataccaattaatataa-atttacttaattcacaataatttataa-taattaatac-tgaataattCCCAAGTATtaaatatatcaacaaacgtgtcgaataaaaaactgttataccaatggataaataaaaaataaaaaaaat-taaaaa-aTTCAAGTTCCTTATCAAGAA--TATATCCAAAATTAAGTCTTTAGAATAAAATCCAGACAAAAAAGGAATTCCACATAATGATATATTAGAAAAAACTATTATTATAGTAAT-TACCGGAATAAAAATTCCT-ATCCCTCCTATATAACGAATATCTTGATTATTATTTATTAAATGAATGAACACTCCTGAACATATAAACAATAAAGCCTTAAATATAGCGTGAGTCAATAAATGaaaaaaaGCTAAATCTCTTAGTCCTAAACTTAAAACTCTTATTATTAAACCTAACTGACTTAA",
+                  "hseq": "CCTTAATATCTTCAATATTATACTCTAATATATAAGCTATTTA-A--A-TATA--TA---A--AT-AATATA-AAT-AATA-TAATAATTATTCATATTACAAATCTAAATAAATAAATTTTAAAATTATTTATTTGATAAAAATAATATAAAATAGAATATTTTTTTAAAAT-AATAAATATACCTTGTCCTCTAT-ATATTTCTATTCAACCTATATCCACAATTTTTAATAAATTTTGAC-CAAAAT-T-TAAAAATAAATAATTTAACCCATAAGTAGATAAATTAGGTATAAATCACATTAAACTTAAAAAATTTCTTAAAATATAAGTAAATAAAAATTTATTTAAAGAATAAATTTTTATATTACTGACTAA-ATAACCTATAAGTATACC-TAAAACTCTTACATAAATTACCATCATTTTTATACTAAAAGGTAAATAAATTATATAAGGATAAGGAAAAATTATTCATCTTAAAAATCTTCCACTTAAAATTCTTATAAATAATAAAATAAATATTCTCTTTAATATAACATAATCTTCAT-CA-AATAAATTAAAAATTCTTAATAAATTAA-AATCATTAATTATTAAATATATAGATAAACGAAAACTATAATATATAGTTAAACC--TGTAGAAATATAATATAAAAAAAAAATAAATATATTTAAATATCTTA--AAGAAACTATTTCTAAAATCATATCTTTAGAATAAAATCCTGCTAAAAAAGGAATACCACATAATGCTATATTAGAAATATTTATACATAAAGAAGTATAT-GGCA-AATAATATCTAATTCCACCTATATAACGAATATCTTGAATATTATTTATTATATGAATAATAACTCCAGCACATATAAATAATAAAGCTTTAAATATAGCATGAGTTAATAAATGAAAAAAAGCTAAATCTGGTAAACCTATTCTTAAAATTCTTATTATTAACCCTAATTGTCTTAA",
+                  "midline": "||||| || |||||||| || ||||||| |||||||||||||| |  | ||||  ||   |   | || ||| ||| || | |||| ||||||||||  | |||  | |||| ||||| ||| ||  ||||  |||||||||||||||| | || || |||||||  |||||| |||   ||  || | ||    || ||| ||||| ||| |||||||| | |||||||||  || ||| || | | || | || ||||   |   ||||   ||||||||||||||||||||||||||||||||  ||||||||   ||||||| ||||  ||  |||||| |||||||||||| | |  |||||   ||| | ||| ||| |||| ||  || || |  || | | | | |||| || |  | |||||| || ||||  | |||||||| ||||||||||  ||| | || |||| |||  | ||| |||   || | ||||||   |||||||| |||||| |   ||||||||| ||   ||| || || ||||| ||| || |  ||||||  | || |||    || ||||||||||||  | |||||      |||| | |  |||| |||  || | ||||| || ||||||||||  |||| | ||| || |  ||||  |||||  ||| || ||||| |  ||||||||||||||||| |  ||||||||||| |||||||||| ||||||||||| |  |||   || || | | ||  || | || |||  || || || ||||||||||||||||||||| |||||||||||| |||||| |  ||||| | ||||||||| |||||||| ||||||||||| ||||| ||||||||||||||||||||||||  ||  ||||  ||||||| |||||||||||| ||||| || |||||"
+                }
+              ]
+            },
+            {
+              "num": 48,
+              "description": [
+                {
                   "id": "gi|1095161175|gb|KX621053.1|",
                   "accession": "KX621053",
                   "title": "Lobesia sp. FRA-2014 mitochondrion, complete genome",
@@ -1632,7 +1665,7 @@
                   "num": 1,
                   "bit_score": 357.524,
                   "score": 193,
-                  "evalue": 1.31042e-93,
+                  "evalue": 1.34889e-93,
                   "identity": 759,
                   "query_from": 1,
                   "query_to": 998,
@@ -1649,7 +1682,7 @@
               ]
             },
             {
-              "num": 48,
+              "num": 49,
               "description": [
                 {
                   "id": "gi|237769782|dbj|AB501208.1|",
@@ -1665,7 +1698,7 @@
                   "num": 1,
                   "bit_score": 357.524,
                   "score": 193,
-                  "evalue": 1.31042e-93,
+                  "evalue": 1.34889e-93,
                   "identity": 685,
                   "query_from": 92,
                   "query_to": 998,
@@ -1682,7 +1715,7 @@
               ]
             },
             {
-              "num": 49,
+              "num": 50,
               "description": [
                 {
                   "id": "gi|1544811894|dbj|LC340799.1|",
@@ -1698,7 +1731,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 491,
                   "query_from": 375,
                   "query_to": 998,
@@ -1715,7 +1748,7 @@
               ]
             },
             {
-              "num": 50,
+              "num": 51,
               "description": [
                 {
                   "id": "gi|1264230388|dbj|AB901186.1|",
@@ -1731,7 +1764,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 537,
                   "query_from": 309,
                   "query_to": 998,
@@ -1748,7 +1781,7 @@
               ]
             },
             {
-              "num": 51,
+              "num": 52,
               "description": [
                 {
                   "id": "gi|1264230326|dbj|AB901152.1|",
@@ -1764,7 +1797,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -1781,7 +1814,7 @@
               ]
             },
             {
-              "num": 52,
+              "num": 53,
               "description": [
                 {
                   "id": "gi|1264230320|dbj|AB901149.1|",
@@ -1797,7 +1830,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 540,
                   "query_from": 309,
                   "query_to": 998,
@@ -1814,7 +1847,7 @@
               ]
             },
             {
-              "num": 53,
+              "num": 54,
               "description": [
                 {
                   "id": "gi|157062831|gb|EU037827.1|",
@@ -1830,7 +1863,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 521,
                   "query_from": 333,
                   "query_to": 998,
@@ -1847,7 +1880,7 @@
               ]
             },
             {
-              "num": 54,
+              "num": 55,
               "description": [
                 {
                   "id": "gi|157062827|gb|EU037825.1|",
@@ -1884,7 +1917,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 521,
                   "query_from": 333,
                   "query_to": 998,
@@ -1901,7 +1934,7 @@
               ]
             },
             {
-              "num": 55,
+              "num": 56,
               "description": [
                 {
                   "id": "gi|157062821|gb|EU037822.1|",
@@ -1917,7 +1950,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 520,
                   "query_from": 333,
                   "query_to": 998,
@@ -1934,7 +1967,7 @@
               ]
             },
             {
-              "num": 56,
+              "num": 57,
               "description": [
                 {
                   "id": "gi|21624184|dbj|AB055837.1|",
@@ -1950,7 +1983,7 @@
                   "num": 1,
                   "bit_score": 355.677,
                   "score": 192,
-                  "evalue": 4.7131e-93,
+                  "evalue": 4.85146e-93,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -1967,7 +2000,7 @@
               ]
             },
             {
-              "num": 57,
+              "num": 58,
               "description": [
                 {
                   "id": "gi|1778127790|ref|NC_045189.1|",
@@ -1990,7 +2023,7 @@
                   "num": 1,
                   "bit_score": 351.984,
                   "score": 190,
-                  "evalue": 6.09678e-92,
+                  "evalue": 6.27576e-92,
                   "identity": 746,
                   "query_from": 7,
                   "query_to": 998,
@@ -2007,7 +2040,7 @@
               ]
             },
             {
-              "num": 58,
+              "num": 59,
               "description": [
                 {
                   "id": "gi|1264230380|dbj|AB901182.1|",
@@ -2023,7 +2056,7 @@
                   "num": 1,
                   "bit_score": 351.984,
                   "score": 190,
-                  "evalue": 6.09678e-92,
+                  "evalue": 6.27576e-92,
                   "identity": 533,
                   "query_from": 309,
                   "query_to": 998,
@@ -2040,7 +2073,7 @@
               ]
             },
             {
-              "num": 59,
+              "num": 60,
               "description": [
                 {
                   "id": "gi|555929043|dbj|AB855814.1|",
@@ -2056,7 +2089,7 @@
                   "num": 1,
                   "bit_score": 351.984,
                   "score": 190,
-                  "evalue": 6.09678e-92,
+                  "evalue": 6.27576e-92,
                   "identity": 518,
                   "query_from": 338,
                   "query_to": 998,
@@ -2073,7 +2106,7 @@
               ]
             },
             {
-              "num": 60,
+              "num": 61,
               "description": [
                 {
                   "id": "gi|1832296253|gb|MN094786.1|",
@@ -2089,7 +2122,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 743,
                   "query_from": 5,
                   "query_to": 998,
@@ -2106,7 +2139,7 @@
               ]
             },
             {
-              "num": 61,
+              "num": 62,
               "description": [
                 {
                   "id": "gi|1544790273|dbj|LC340742.1|",
@@ -2122,7 +2155,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 493,
                   "query_from": 375,
                   "query_to": 998,
@@ -2139,7 +2172,7 @@
               ]
             },
             {
-              "num": 62,
+              "num": 63,
               "description": [
                 {
                   "id": "gi|1264230372|dbj|AB901178.1|",
@@ -2155,7 +2188,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -2172,7 +2205,7 @@
               ]
             },
             {
-              "num": 63,
+              "num": 64,
               "description": [
                 {
                   "id": "gi|1264230370|dbj|AB901177.1|",
@@ -2188,7 +2221,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -2205,7 +2238,7 @@
               ]
             },
             {
-              "num": 64,
+              "num": 65,
               "description": [
                 {
                   "id": "gi|1264230362|dbj|AB901173.1|",
@@ -2221,7 +2254,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 536,
                   "query_from": 309,
                   "query_to": 998,
@@ -2238,7 +2271,7 @@
               ]
             },
             {
-              "num": 65,
+              "num": 66,
               "description": [
                 {
                   "id": "gi|1264230350|dbj|AB901165.1|",
@@ -2254,7 +2287,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 535,
                   "query_from": 309,
                   "query_to": 998,
@@ -2271,7 +2304,7 @@
               ]
             },
             {
-              "num": 66,
+              "num": 67,
               "description": [
                 {
                   "id": "gi|1264230346|dbj|AB901162.1|",
@@ -2294,7 +2327,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 535,
                   "query_from": 309,
                   "query_to": 998,
@@ -2311,7 +2344,7 @@
               ]
             },
             {
-              "num": 67,
+              "num": 68,
               "description": [
                 {
                   "id": "gi|1264230328|dbj|AB901153.1|",
@@ -2341,7 +2374,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -2358,7 +2391,7 @@
               ]
             },
             {
-              "num": 68,
+              "num": 69,
               "description": [
                 {
                   "id": "gi|1264230316|dbj|AB901147.1|",
@@ -2374,7 +2407,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 539,
                   "query_from": 309,
                   "query_to": 998,
@@ -2391,7 +2424,7 @@
               ]
             },
             {
-              "num": 69,
+              "num": 70,
               "description": [
                 {
                   "id": "gi|1264230312|dbj|AB901144.1|",
@@ -2407,7 +2440,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 538,
                   "query_from": 309,
                   "query_to": 998,
@@ -2424,7 +2457,7 @@
               ]
             },
             {
-              "num": 70,
+              "num": 71,
               "description": [
                 {
                   "id": "gi|1132312435|gb|KX495167.1|",
@@ -2440,7 +2473,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 745,
                   "query_from": 9,
                   "query_to": 998,
@@ -2457,7 +2490,7 @@
               ]
             },
             {
-              "num": 71,
+              "num": 72,
               "description": [
                 {
                   "id": "gi|157062841|gb|EU037832.1|",
@@ -2473,7 +2506,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 520,
                   "query_from": 333,
                   "query_to": 998,
@@ -2490,7 +2523,7 @@
               ]
             },
             {
-              "num": 72,
+              "num": 73,
               "description": [
                 {
                   "id": "gi|157062837|gb|EU037830.1|",
@@ -2506,7 +2539,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 520,
                   "query_from": 333,
                   "query_to": 998,
@@ -2523,7 +2556,7 @@
               ]
             },
             {
-              "num": 73,
+              "num": 74,
               "description": [
                 {
                   "id": "gi|157062787|gb|EU037805.1|",
@@ -2553,7 +2586,7 @@
                   "num": 1,
                   "bit_score": 350.137,
                   "score": 189,
-                  "evalue": 2.19279e-91,
+                  "evalue": 2.25717e-91,
                   "identity": 520,
                   "query_from": 333,
                   "query_to": 998,
@@ -2570,7 +2603,7 @@
               ]
             },
             {
-              "num": 74,
+              "num": 75,
               "description": [
                 {
                   "id": "gi|578003536|gb|KF906485.1|",
@@ -2586,7 +2619,7 @@
                   "num": 1,
                   "bit_score": 348.29,
                   "score": 188,
-                  "evalue": 7.88669e-91,
+                  "evalue": 8.11821e-91,
                   "identity": 749,
                   "query_from": 11,
                   "query_to": 998,
@@ -2603,7 +2636,7 @@
               ]
             },
             {
-              "num": 75,
+              "num": 76,
               "description": [
                 {
                   "id": "gi|237769694|dbj|AB501197.1|",
@@ -2619,7 +2652,7 @@
                   "num": 1,
                   "bit_score": 346.444,
                   "score": 187,
-                  "evalue": 2.83656e-90,
+                  "evalue": 2.91983e-90,
                   "identity": 675,
                   "query_from": 114,
                   "query_to": 998,
@@ -2636,7 +2669,7 @@
               ]
             },
             {
-              "num": 76,
+              "num": 77,
               "description": [
                 {
                   "id": "gi|1544797550|dbj|LC340772.1|",
@@ -2652,7 +2685,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 489,
                   "query_from": 375,
                   "query_to": 998,
@@ -2669,7 +2702,7 @@
               ]
             },
             {
-              "num": 77,
+              "num": 78,
               "description": [
                 {
                   "id": "gi|1544786557|dbj|LC340718.1|",
@@ -2685,7 +2718,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 488,
                   "query_from": 375,
                   "query_to": 998,
@@ -2702,7 +2735,7 @@
               ]
             },
             {
-              "num": 78,
+              "num": 79,
               "description": [
                 {
                   "id": "gi|1264230386|dbj|AB901185.1|",
@@ -2718,7 +2751,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 535,
                   "query_from": 309,
                   "query_to": 998,
@@ -2735,7 +2768,7 @@
               ]
             },
             {
-              "num": 79,
+              "num": 80,
               "description": [
                 {
                   "id": "gi|1264230384|dbj|AB901184.1|",
@@ -2751,7 +2784,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 535,
                   "query_from": 309,
                   "query_to": 998,
@@ -2768,7 +2801,7 @@
               ]
             },
             {
-              "num": 80,
+              "num": 81,
               "description": [
                 {
                   "id": "gi|1264230382|dbj|AB901183.1|",
@@ -2784,7 +2817,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 533,
                   "query_from": 309,
                   "query_to": 998,
@@ -2801,7 +2834,7 @@
               ]
             },
             {
-              "num": 81,
+              "num": 82,
               "description": [
                 {
                   "id": "gi|1264230364|dbj|AB901174.1|",
@@ -2817,7 +2850,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 535,
                   "query_from": 309,
                   "query_to": 998,
@@ -2834,7 +2867,7 @@
               ]
             },
             {
-              "num": 82,
+              "num": 83,
               "description": [
                 {
                   "id": "gi|1264230352|dbj|AB901166.1|",
@@ -2850,7 +2883,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 533,
                   "query_from": 309,
                   "query_to": 998,
@@ -2867,7 +2900,7 @@
               ]
             },
             {
-              "num": 83,
+              "num": 84,
               "description": [
                 {
                   "id": "gi|1264230322|dbj|AB901150.1|",
@@ -2883,7 +2916,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 537,
                   "query_from": 309,
                   "query_to": 998,
@@ -2900,7 +2933,7 @@
               ]
             },
             {
-              "num": 84,
+              "num": 85,
               "description": [
                 {
                   "id": "gi|1264230236|dbj|AB513912.1|",
@@ -2916,7 +2949,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 535,
                   "query_from": 309,
                   "query_to": 998,
@@ -2933,7 +2966,7 @@
               ]
             },
             {
-              "num": 85,
+              "num": 86,
               "description": [
                 {
                   "id": "gi|2095500376|gb|MZ593604.1|",
@@ -2949,7 +2982,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 754,
                   "query_from": 1,
                   "query_to": 998,
@@ -2966,7 +2999,7 @@
               ]
             },
             {
-              "num": 86,
+              "num": 87,
               "description": [
                 {
                   "id": "gi|157062839|gb|EU037831.1|",
@@ -2982,7 +3015,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 519,
                   "query_from": 333,
                   "query_to": 998,
@@ -2999,7 +3032,7 @@
               ]
             },
             {
-              "num": 87,
+              "num": 88,
               "description": [
                 {
                   "id": "gi|157062797|gb|EU037810.1|",
@@ -3029,7 +3062,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 519,
                   "query_from": 333,
                   "query_to": 998,
@@ -3046,7 +3079,7 @@
               ]
             },
             {
-              "num": 88,
+              "num": 89,
               "description": [
                 {
                   "id": "gi|157062793|gb|EU037808.1|",
@@ -3069,7 +3102,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 519,
                   "query_from": 333,
                   "query_to": 998,
@@ -3086,7 +3119,7 @@
               ]
             },
             {
-              "num": 89,
+              "num": 90,
               "description": [
                 {
                   "id": "gi|157062781|gb|EU037802.1|",
@@ -3102,7 +3135,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 518,
                   "query_from": 333,
                   "query_to": 998,
@@ -3119,7 +3152,7 @@
               ]
             },
             {
-              "num": 90,
+              "num": 91,
               "description": [
                 {
                   "id": "gi|157062775|gb|EU037799.1|",
@@ -3142,7 +3175,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 519,
                   "query_from": 333,
                   "query_to": 998,
@@ -3159,7 +3192,7 @@
               ]
             },
             {
-              "num": 91,
+              "num": 92,
               "description": [
                 {
                   "id": "gi|157062773|gb|EU037798.1|",
@@ -3175,7 +3208,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 519,
                   "query_from": 333,
                   "query_to": 998,
@@ -3192,7 +3225,7 @@
               ]
             },
             {
-              "num": 92,
+              "num": 93,
               "description": [
                 {
                   "id": "gi|157062769|gb|EU037796.1|",
@@ -3208,7 +3241,7 @@
                   "num": 1,
                   "bit_score": 344.597,
                   "score": 186,
-                  "evalue": 1.02021e-89,
+                  "evalue": 1.05016e-89,
                   "identity": 519,
                   "query_from": 333,
                   "query_to": 998,
@@ -3225,7 +3258,7 @@
               ]
             },
             {
-              "num": 93,
+              "num": 94,
               "description": [
                 {
                   "id": "gi|40252882|dbj|AB095613.1|",
@@ -3241,7 +3274,7 @@
                   "num": 1,
                   "bit_score": 342.75,
                   "score": 185,
-                  "evalue": 3.66932e-89,
+                  "evalue": 3.77704e-89,
                   "identity": 487,
                   "query_from": 373,
                   "query_to": 998,
@@ -3258,7 +3291,7 @@
               ]
             },
             {
-              "num": 94,
+              "num": 95,
               "description": [
                 {
                   "id": "gi|157062863|gb|EU037843.1|",
@@ -3274,7 +3307,7 @@
                   "num": 1,
                   "bit_score": 340.904,
                   "score": 184,
-                  "evalue": 1.31972e-88,
+                  "evalue": 1.35846e-88,
                   "identity": 515,
                   "query_from": 344,
                   "query_to": 998,
@@ -3291,7 +3324,7 @@
               ]
             },
             {
-              "num": 95,
+              "num": 96,
               "description": [
                 {
                   "id": "gi|1544790242|dbj|LC340740.1|",
@@ -3307,7 +3340,7 @@
                   "num": 1,
                   "bit_score": 339.057,
                   "score": 183,
-                  "evalue": 4.74656e-88,
+                  "evalue": 4.88591e-88,
                   "identity": 488,
                   "query_from": 375,
                   "query_to": 998,
@@ -3324,7 +3357,7 @@
               ]
             },
             {
-              "num": 96,
+              "num": 97,
               "description": [
                 {
                   "id": "gi|1544786612|dbj|LC340722.1|",
@@ -3340,7 +3373,7 @@
                   "num": 1,
                   "bit_score": 339.057,
                   "score": 183,
-                  "evalue": 4.74656e-88,
+                  "evalue": 4.88591e-88,
                   "identity": 488,
                   "query_from": 375,
                   "query_to": 998,
@@ -3357,7 +3390,7 @@
               ]
             },
             {
-              "num": 97,
+              "num": 98,
               "description": [
                 {
                   "id": "gi|1264230392|dbj|AB901188.1|",
@@ -3373,7 +3406,7 @@
                   "num": 1,
                   "bit_score": 339.057,
                   "score": 183,
-                  "evalue": 4.74656e-88,
+                  "evalue": 4.88591e-88,
                   "identity": 534,
                   "query_from": 309,
                   "query_to": 998,
@@ -3390,7 +3423,7 @@
               ]
             },
             {
-              "num": 98,
+              "num": 99,
               "description": [
                 {
                   "id": "gi|157062785|gb|EU037804.1|",
@@ -3406,7 +3439,7 @@
                   "num": 1,
                   "bit_score": 339.057,
                   "score": 183,
-                  "evalue": 4.74656e-88,
+                  "evalue": 4.88591e-88,
                   "identity": 518,
                   "query_from": 333,
                   "query_to": 998,
@@ -3423,7 +3456,7 @@
               ]
             },
             {
-              "num": 99,
+              "num": 100,
               "description": [
                 {
                   "id": "gi|157062779|gb|EU037801.1|",
@@ -3439,7 +3472,7 @@
                   "num": 1,
                   "bit_score": 339.057,
                   "score": 183,
-                  "evalue": 4.74656e-88,
+                  "evalue": 4.88591e-88,
                   "identity": 518,
                   "query_from": 333,
                   "query_to": 998,
@@ -3454,44 +3487,11 @@
                   "midline": "||| |||| | ||||||| || |||||| | || || ||  || ||| ||| |||||||| | |  ||||||   ||||| || ||  |||| ||| || |||  | ||| ||| | |||| ||||  | |||||   | ||||| | |||||||| |||||||||| |||| | || |||| |||  | ||||||||||| |||||||||   |||||||| ||| |||| | |||||||||  | | |||  |||| ||||| |||| ||||| || ||    |||||     | ||||||||||||||| |||||    | |||||| |  ||||  ||  || | ||||| || |||||  ||||| ||||||||| || || ||||| | | | ||  || |||||||| || ||||||||||||||||  |||||||||||||||||||| | || ||||||||  | | | |  ||| | || |||  |||||| | | || ||| || |||||  |||||||||||||||||| ||||||||||||||| ||   | || | |||||||||||||||||||||||||||||| ||||| |||||||||||| |||| ||||| |  ||  || | |||||||| |||||||||||||||||| || |||||"
                 }
               ]
-            },
-            {
-              "num": 100,
-              "description": [
-                {
-                  "id": "gi|2030575416|gb|MK903030.1|",
-                  "accession": "MK903030",
-                  "title": "Spilosoma lubricipeda mitochondrion, complete genome",
-                  "taxid": 875880,
-                  "sciname": "Spilosoma lubricipeda"
-                }
-              ],
-              "len": 15369,
-              "hsps": [
-                {
-                  "num": 1,
-                  "bit_score": 337.211,
-                  "score": 182,
-                  "evalue": 1.70717e-87,
-                  "identity": 736,
-                  "query_from": 13,
-                  "query_to": 998,
-                  "query_strand": "Plus",
-                  "hit_from": 6285,
-                  "hit_to": 7253,
-                  "hit_strand": "Plus",
-                  "align_len": 1001,
-                  "gaps": 47,
-                  "qseq": "TATATATTATATAAAAATAATTAATATTACCTTATTAGCTTCAATAATAAACTCTAAATATAAGCTATTTATATTATTATATTTATCTATCTTAAAAATATAATAAAAACTAATATTATTCATAAAATAAAAATGAATAGATAAAATTTTAATCTATTATTTTGATAAAAAT-AATAAATAAAAGTATATTTTACTAA-AATCAATTTTAACCCATATCTAGAATAATATTCTAATCATCCTATATCTA-AATTTTTAACTAATTTCACTCTATATGTATAG-AAATTTTTTGTTAAAAAATAAGTAGATAAATTAGGTATAAATCACattactcttaaaaataatcttaaactatatctatttaaaaacttatttaaagaaaataaatttattGAACTAA-TAAGATACCCTAAAACAATCCCCT-TCAATGTaaaaaaaataactaaaagttttattcttaaa-gaaacataaattaaataaggataataaaataataatCATATTATTATTCTACCAGAAAATAA-TCTTATTGCtaataaaacaaatataccaattaatataa-atttacttaattcacaataatttataa-t---aattaatactgaa-taattCCCAAGTATtaaatatatcaacaaacgtgtcgaataaaaaactgttataccaatggataaataaaaaataaaaaaaattaaaaaaTTCAAGTTCCTTA-TCAAGAATATATCCAAAATTAAGTCTTTAGAATAAAATCCAGACAAAAAAGGAATTCCACATAATGATATATTAGAAAAAACTATTATTATAGTAATTACCGGAATAAAAATTCCTATCCCTCCTATATAACGAATATCTTGATTATTATTTATTAAATGAATGAACACTCCTGAACATATAAACAATAAAGCCTTAAATATAGCGTGAGTCAATAAATGaaaaaaaGCTAAATCTCTTAGTCCTAAACTTAAAACTCTTATTATTAAACCTAACTGACTTAA",
-                  "hseq": "TATA-AATATTTAAAGATAAATT-TATCTCCATAATATCTTCAATATTATACTCT--CTATAAGCTATTTA-A--ATTA-A---AT-TA--TT-AACAT-TAAT-AATATTAAAAATATTCATAAAATAAATCTAAATAAATAAATTTTTAAATTATTTATTTCA-AAAAATCTATAAAAAATAGAATATTTT-TTAATAATTTTTATTATTCCCCATCCACTATAAACTTCTCTTCATCCTATATCTACAATTTTTAATAAATTTTGCCCAAAAT-TA-AGAAAATTATATCTTACACCATAAGTAGATAAATTAGGTATAAATCACATTAAACTTAAAAAATTTCTTAAATTATAAGTAAAAATAAATTTATTAATAGAATAAATTTTTATATTACTAACTAA-ATAACCTAATCCC-CCTCCTATAAAACTAATATAAATTACTATTATTTTTAAA-TTAAATGGTAAATAAATTATATAAGGATAAGAAAAAATTATTCATCTTAAAAATCTTCCTCTAA-TAATTCTTATAAATAATAAAACAAATATTCTTTTTAATATAATATAATCTTCAT-CATA-TAAATTATAAATTCTAATTAA-ATTAAAATCATTTAC---TATTAAATATATAATTAAACGAATTGTATAAAATATTGTTAAACCTGTTGAAATATAATATAAAAAAAAAATTATAAAATTTAAATTACTAAATCTA-ACTAATTCTAAAATTAAATCCTTTGAATAAAATCCAGCTAAAAATGGAATACCACATAAAGCTATATTAGAAATATTTATACATAAAGATGTTAATGGAATATAAAATCTAATTCCCCCTATAAATCGAATATCTTGTATATCATTTATTAAATGAATAATTACTCCAGCACATATAAATAATAATGCTTTAAATATAGCATGAGTTAATAAATGAAAAAAAGCTAAATTAGGAAAACCTATTCTTAAAATTCTTATTATTAATCCCAATTGTCTTAA",
-                  "midline": "|||| | ||| |||| |||| |  |||  || || || |||||||| || |||||   ||||||||||||| |  |||| |   || ||  || || || |||| || | ||| | |||||||||||||||  | |||| ||||| ||||||  ||||  ||| | ||||||  ||||| || || |||||||  ||| |||   | |||  ||  ||| |  ||||  ||||  |||||||||||||| |||||||||  |||||  | | | || || || ||||| | | ||| |  ||||||||||||||||||||||||||||||||  ||||||||   ||||||| ||||  ||   | ||| ||||| | |||| | |  |||||   ||||| ||| ||| |||||  |   | ||| | ||  ||| | |||| ||||  | |||||   ||||| |  | |||||||| |||||||||| |||| | || |||| |||  | ||| ||   || ||| ||||||   ||||||||||||||| |   ||||||||| ||   ||| || || | ||| |||||| |   |||||| | | || | |||  |   |||||||||||| |  |||||  | | |||||| | ||||| |||  | || | |||| | | ||||||||||| |||||| || || || | || | | ||  || |||||||| || || |||||||||||||  ||||| ||||| |||||||| | ||||||||||| |  |||   || ||   |||  |||||| ||| ||  || || |||||| | |||||||||||  ||| ||||||||||||||| |  ||||| | ||||||||| ||||| || ||||||||||| ||||| ||||||||||||||||||||||     |  ||||  ||||||| |||||||||||| || || || |||||"
-                }
-              ]
             }
           ],
           "stat": {
-            "db_num": 75822088,
-            "db_len": 1498479214,
+            "db_num": 76474009,
+            "db_len": 1201323862,
             "hsp_len": 0,
             "eff_space": 0,
             "kappa": 0.46,
@@ -3521,7 +3521,7 @@
       },
       "results": {
         "search": {
-          "query_id": "Query_25352",
+          "query_id": "Query_48076",
           "query_title": "LWW0016_60_av_134.47",
           "query_len": 998,
           "query_masking": [
@@ -4028,7 +4028,7 @@
                   "num": 2,
                   "bit_score": 303.971,
                   "score": 164,
-                  "evalue": 1.7297e-77,
+                  "evalue": 1.78047e-77,
                   "identity": 246,
                   "query_from": 712,
                   "query_to": 998,
@@ -7134,8 +7134,8 @@
             }
           ],
           "stat": {
-            "db_num": 75822088,
-            "db_len": 1498479214,
+            "db_num": 76474009,
+            "db_len": 1201323862,
             "hsp_len": 0,
             "eff_space": 0,
             "kappa": 0.46,
@@ -7165,7 +7165,7 @@
       },
       "results": {
         "search": {
-          "query_id": "Query_25353",
+          "query_id": "Query_48077",
           "query_title": "k127_179532__av_81.1152_len_995",
           "query_len": 995,
           "query_masking": [
@@ -7365,7 +7365,7 @@
                   "num": 2,
                   "bit_score": 204.252,
                   "score": 110,
-                  "evalue": 1.79907e-47,
+                  "evalue": 1.85188e-47,
                   "identity": 205,
                   "query_from": 620,
                   "query_to": 865,
@@ -7497,7 +7497,7 @@
                   "num": 1,
                   "bit_score": 641.908,
                   "score": 347,
-                  "evalue": 3.21717e-179,
+                  "evalue": 3.31161e-179,
                   "identity": 494,
                   "query_from": 76,
                   "query_to": 636,
@@ -7530,7 +7530,7 @@
                   "num": 1,
                   "bit_score": 619.748,
                   "score": 335,
-                  "evalue": 1.50743e-172,
+                  "evalue": 1.55168e-172,
                   "identity": 492,
                   "query_from": 76,
                   "query_to": 636,
@@ -7563,7 +7563,7 @@
                   "num": 1,
                   "bit_score": 597.588,
                   "score": 323,
-                  "evalue": 7.06318e-166,
+                  "evalue": 7.27053e-166,
                   "identity": 494,
                   "query_from": 77,
                   "query_to": 636,
@@ -7581,7 +7581,7 @@
                   "num": 2,
                   "bit_score": 219.025,
                   "score": 118,
-                  "evalue": 6.42499e-52,
+                  "evalue": 6.61361e-52,
                   "identity": 237,
                   "query_from": 594,
                   "query_to": 867,
@@ -7614,7 +7614,7 @@
                   "num": 1,
                   "bit_score": 597.588,
                   "score": 323,
-                  "evalue": 7.06318e-166,
+                  "evalue": 7.27053e-166,
                   "identity": 484,
                   "query_from": 78,
                   "query_to": 636,
@@ -7632,7 +7632,7 @@
                   "num": 2,
                   "bit_score": 592.048,
                   "score": 320,
-                  "evalue": 3.28618e-164,
+                  "evalue": 3.38265e-164,
                   "identity": 483,
                   "query_from": 78,
                   "query_to": 636,
@@ -7665,7 +7665,7 @@
                   "num": 1,
                   "bit_score": 595.741,
                   "score": 322,
-                  "evalue": 2.54037e-165,
+                  "evalue": 2.61495e-165,
                   "identity": 489,
                   "query_from": 76,
                   "query_to": 636,
@@ -7698,7 +7698,7 @@
                   "num": 1,
                   "bit_score": 592.048,
                   "score": 320,
-                  "evalue": 3.28618e-164,
+                  "evalue": 3.38265e-164,
                   "identity": 483,
                   "query_from": 78,
                   "query_to": 636,
@@ -7731,7 +7731,7 @@
                   "num": 1,
                   "bit_score": 590.202,
                   "score": 319,
-                  "evalue": 1.18192e-163,
+                  "evalue": 1.21662e-163,
                   "identity": 494,
                   "query_from": 78,
                   "query_to": 636,
@@ -7764,7 +7764,7 @@
                   "num": 1,
                   "bit_score": 586.508,
                   "score": 317,
-                  "evalue": 1.52891e-162,
+                  "evalue": 1.57379e-162,
                   "identity": 486,
                   "query_from": 76,
                   "query_to": 636,
@@ -7782,7 +7782,7 @@
                   "num": 2,
                   "bit_score": 222.718,
                   "score": 120,
-                  "evalue": 4.96682e-53,
+                  "evalue": 5.11263e-53,
                   "identity": 211,
                   "query_from": 616,
                   "query_to": 865,
@@ -7815,7 +7815,7 @@
                   "num": 1,
                   "bit_score": 584.662,
                   "score": 316,
-                  "evalue": 5.49894e-162,
+                  "evalue": 5.66037e-162,
                   "identity": 484,
                   "query_from": 76,
                   "query_to": 636,
@@ -7848,7 +7848,7 @@
                   "num": 1,
                   "bit_score": 582.815,
                   "score": 315,
-                  "evalue": 1.97777e-161,
+                  "evalue": 2.03583e-161,
                   "identity": 487,
                   "query_from": 77,
                   "query_to": 636,
@@ -7881,7 +7881,7 @@
                   "num": 1,
                   "bit_score": 582.815,
                   "score": 315,
-                  "evalue": 1.97777e-161,
+                  "evalue": 2.03583e-161,
                   "identity": 486,
                   "query_from": 77,
                   "query_to": 636,
@@ -7914,7 +7914,7 @@
                   "num": 1,
                   "bit_score": 577.275,
                   "score": 312,
-                  "evalue": 9.20167e-160,
+                  "evalue": 9.4718e-160,
                   "identity": 486,
                   "query_from": 77,
                   "query_to": 635,
@@ -7947,7 +7947,7 @@
                   "num": 1,
                   "bit_score": 573.582,
                   "score": 310,
-                  "evalue": 1.19031e-158,
+                  "evalue": 1.22525e-158,
                   "identity": 488,
                   "query_from": 77,
                   "query_to": 636,
@@ -7987,7 +7987,7 @@
                   "num": 1,
                   "bit_score": 573.582,
                   "score": 310,
-                  "evalue": 1.19031e-158,
+                  "evalue": 1.22525e-158,
                   "identity": 483,
                   "query_from": 78,
                   "query_to": 636,
@@ -8020,7 +8020,7 @@
                   "num": 1,
                   "bit_score": 571.735,
                   "score": 309,
-                  "evalue": 4.28112e-158,
+                  "evalue": 4.4068e-158,
                   "identity": 487,
                   "query_from": 79,
                   "query_to": 636,
@@ -8038,7 +8038,7 @@
                   "num": 2,
                   "bit_score": 97.1461,
                   "score": 52,
-                  "evalue": 3.14102e-15,
+                  "evalue": 3.23323e-15,
                   "identity": 72,
                   "query_from": 2,
                   "query_to": 83,
@@ -8071,7 +8071,7 @@
                   "num": 1,
                   "bit_score": 571.735,
                   "score": 309,
-                  "evalue": 4.28112e-158,
+                  "evalue": 4.4068e-158,
                   "identity": 480,
                   "query_from": 79,
                   "query_to": 634,
@@ -8089,7 +8089,7 @@
                   "num": 2,
                   "bit_score": 283.658,
                   "score": 153,
-                  "evalue": 2.24636e-71,
+                  "evalue": 2.31231e-71,
                   "identity": 220,
                   "query_from": 616,
                   "query_to": 865,
@@ -8122,7 +8122,7 @@
                   "num": 1,
                   "bit_score": 571.735,
                   "score": 309,
-                  "evalue": 4.28112e-158,
+                  "evalue": 4.4068e-158,
                   "identity": 485,
                   "query_from": 77,
                   "query_to": 635,
@@ -8155,7 +8155,7 @@
                   "num": 1,
                   "bit_score": 569.888,
                   "score": 308,
-                  "evalue": 1.53977e-157,
+                  "evalue": 1.58497e-157,
                   "identity": 479,
                   "query_from": 78,
                   "query_to": 636,
@@ -8188,7 +8188,7 @@
                   "num": 1,
                   "bit_score": 568.042,
                   "score": 307,
-                  "evalue": 5.53798e-157,
+                  "evalue": 5.70056e-157,
                   "identity": 490,
                   "query_from": 78,
                   "query_to": 636,
@@ -8221,7 +8221,7 @@
                   "num": 1,
                   "bit_score": 566.195,
                   "score": 306,
-                  "evalue": 1.99181e-156,
+                  "evalue": 2.05028e-156,
                   "identity": 484,
                   "query_from": 77,
                   "query_to": 635,
@@ -8239,7 +8239,7 @@
                   "num": 2,
                   "bit_score": 108.226,
                   "score": 58,
-                  "evalue": 1.45107e-18,
+                  "evalue": 1.49367e-18,
                   "identity": 106,
                   "query_from": 846,
                   "query_to": 975,
@@ -8279,7 +8279,7 @@
                   "num": 1,
                   "bit_score": 564.348,
                   "score": 305,
-                  "evalue": 7.16383e-156,
+                  "evalue": 7.37414e-156,
                   "identity": 487,
                   "query_from": 77,
                   "query_to": 635,
@@ -8312,7 +8312,7 @@
                   "num": 1,
                   "bit_score": 564.348,
                   "score": 305,
-                  "evalue": 7.16383e-156,
+                  "evalue": 7.37414e-156,
                   "identity": 479,
                   "query_from": 78,
                   "query_to": 636,
@@ -8345,7 +8345,7 @@
                   "num": 1,
                   "bit_score": 560.655,
                   "score": 303,
-                  "evalue": 9.267e-155,
+                  "evalue": 9.53905e-155,
                   "identity": 483,
                   "query_from": 76,
                   "query_to": 636,
@@ -8378,7 +8378,7 @@
                   "num": 1,
                   "bit_score": 560.655,
                   "score": 303,
-                  "evalue": 9.267e-155,
+                  "evalue": 9.53905e-155,
                   "identity": 478,
                   "query_from": 77,
                   "query_to": 636,
@@ -8411,7 +8411,7 @@
                   "num": 1,
                   "bit_score": 558.808,
                   "score": 302,
-                  "evalue": 3.33301e-154,
+                  "evalue": 3.43085e-154,
                   "identity": 487,
                   "query_from": 77,
                   "query_to": 636,
@@ -8451,7 +8451,7 @@
                   "num": 1,
                   "bit_score": 556.962,
                   "score": 301,
-                  "evalue": 1.19876e-153,
+                  "evalue": 1.23395e-153,
                   "identity": 471,
                   "query_from": 77,
                   "query_to": 628,
@@ -8469,7 +8469,7 @@
                   "num": 2,
                   "bit_score": 106.379,
                   "score": 57,
-                  "evalue": 5.21898e-18,
+                  "evalue": 5.37219e-18,
                   "identity": 98,
                   "query_from": 856,
                   "query_to": 972,
@@ -8502,7 +8502,7 @@
                   "num": 1,
                   "bit_score": 556.962,
                   "score": 301,
-                  "evalue": 1.19876e-153,
+                  "evalue": 1.23395e-153,
                   "identity": 473,
                   "query_from": 79,
                   "query_to": 626,
@@ -8520,7 +8520,7 @@
                   "num": 2,
                   "bit_score": 255.958,
                   "score": 138,
-                  "evalue": 4.89704e-63,
+                  "evalue": 5.0408e-63,
                   "identity": 215,
                   "query_from": 616,
                   "query_to": 865,
@@ -8560,7 +8560,7 @@
                   "num": 1,
                   "bit_score": 556.962,
                   "score": 301,
-                  "evalue": 1.19876e-153,
+                  "evalue": 1.23395e-153,
                   "identity": 476,
                   "query_from": 78,
                   "query_to": 635,
@@ -8593,7 +8593,7 @@
                   "num": 1,
                   "bit_score": 551.422,
                   "score": 298,
-                  "evalue": 5.5773e-152,
+                  "evalue": 5.74103e-152,
                   "identity": 476,
                   "query_from": 77,
                   "query_to": 636,
@@ -8626,7 +8626,7 @@
                   "num": 1,
                   "bit_score": 551.422,
                   "score": 298,
-                  "evalue": 5.5773e-152,
+                  "evalue": 5.74103e-152,
                   "identity": 483,
                   "query_from": 76,
                   "query_to": 637,
@@ -8659,7 +8659,7 @@
                   "num": 1,
                   "bit_score": 551.422,
                   "score": 298,
-                  "evalue": 5.5773e-152,
+                  "evalue": 5.74103e-152,
                   "identity": 486,
                   "query_from": 76,
                   "query_to": 636,
@@ -8692,7 +8692,7 @@
                   "num": 1,
                   "bit_score": 551.422,
                   "score": 298,
-                  "evalue": 5.5773e-152,
+                  "evalue": 5.74103e-152,
                   "identity": 466,
                   "query_from": 85,
                   "query_to": 626,
@@ -8710,7 +8710,7 @@
                   "num": 2,
                   "bit_score": 244.878,
                   "score": 132,
-                  "evalue": 1.06002e-59,
+                  "evalue": 1.09114e-59,
                   "identity": 204,
                   "query_from": 630,
                   "query_to": 867,
@@ -8743,7 +8743,7 @@
                   "num": 1,
                   "bit_score": 551.422,
                   "score": 298,
-                  "evalue": 5.5773e-152,
+                  "evalue": 5.74103e-152,
                   "identity": 484,
                   "query_from": 77,
                   "query_to": 635,
@@ -8776,7 +8776,7 @@
                   "num": 1,
                   "bit_score": 551.422,
                   "score": 298,
-                  "evalue": 5.5773e-152,
+                  "evalue": 5.74103e-152,
                   "identity": 482,
                   "query_from": 78,
                   "query_to": 635,
@@ -8794,7 +8794,7 @@
                   "num": 2,
                   "bit_score": 215.332,
                   "score": 116,
-                  "evalue": 8.31125e-51,
+                  "evalue": 8.55524e-51,
                   "identity": 211,
                   "query_from": 616,
                   "query_to": 858,
@@ -8812,7 +8812,7 @@
                   "num": 3,
                   "bit_score": 215.332,
                   "score": 116,
-                  "evalue": 8.31125e-51,
+                  "evalue": 8.55524e-51,
                   "identity": 211,
                   "query_from": 616,
                   "query_to": 858,
@@ -8830,7 +8830,7 @@
                   "num": 4,
                   "bit_score": 215.332,
                   "score": 116,
-                  "evalue": 8.31125e-51,
+                  "evalue": 8.55524e-51,
                   "identity": 211,
                   "query_from": 616,
                   "query_to": 858,
@@ -8848,7 +8848,7 @@
                   "num": 5,
                   "bit_score": 215.332,
                   "score": 116,
-                  "evalue": 8.31125e-51,
+                  "evalue": 8.55524e-51,
                   "identity": 211,
                   "query_from": 616,
                   "query_to": 858,
@@ -8866,7 +8866,7 @@
                   "num": 6,
                   "bit_score": 209.792,
                   "score": 113,
-                  "evalue": 3.86685e-49,
+                  "evalue": 3.98037e-49,
                   "identity": 210,
                   "query_from": 616,
                   "query_to": 858,
@@ -8906,7 +8906,7 @@
                   "num": 1,
                   "bit_score": 549.575,
                   "score": 297,
-                  "evalue": 2.00595e-151,
+                  "evalue": 2.06484e-151,
                   "identity": 483,
                   "query_from": 77,
                   "query_to": 635,
@@ -8939,7 +8939,7 @@
                   "num": 1,
                   "bit_score": 549.575,
                   "score": 297,
-                  "evalue": 2.00595e-151,
+                  "evalue": 2.06484e-151,
                   "identity": 477,
                   "query_from": 77,
                   "query_to": 638,
@@ -8957,7 +8957,7 @@
                   "num": 2,
                   "bit_score": 108.226,
                   "score": 58,
-                  "evalue": 1.45107e-18,
+                  "evalue": 1.49367e-18,
                   "identity": 74,
                   "query_from": 2,
                   "query_to": 83,
@@ -8990,7 +8990,7 @@
                   "num": 1,
                   "bit_score": 549.575,
                   "score": 297,
-                  "evalue": 2.00595e-151,
+                  "evalue": 2.06484e-151,
                   "identity": 481,
                   "query_from": 77,
                   "query_to": 635,
@@ -9023,7 +9023,7 @@
                   "num": 1,
                   "bit_score": 549.575,
                   "score": 297,
-                  "evalue": 2.00595e-151,
+                  "evalue": 2.06484e-151,
                   "identity": 482,
                   "query_from": 76,
                   "query_to": 638,
@@ -9063,7 +9063,7 @@
                   "num": 1,
                   "bit_score": 549.575,
                   "score": 297,
-                  "evalue": 2.00595e-151,
+                  "evalue": 2.06484e-151,
                   "identity": 474,
                   "query_from": 79,
                   "query_to": 624,
@@ -9096,7 +9096,7 @@
                   "num": 1,
                   "bit_score": 547.729,
                   "score": 296,
-                  "evalue": 7.21469e-151,
+                  "evalue": 7.42649e-151,
                   "identity": 469,
                   "query_from": 78,
                   "query_to": 626,
@@ -9129,7 +9129,7 @@
                   "num": 1,
                   "bit_score": 547.729,
                   "score": 296,
-                  "evalue": 7.21469e-151,
+                  "evalue": 7.42649e-151,
                   "identity": 484,
                   "query_from": 76,
                   "query_to": 635,
@@ -9162,7 +9162,7 @@
                   "num": 1,
                   "bit_score": 547.729,
                   "score": 296,
-                  "evalue": 7.21469e-151,
+                  "evalue": 7.42649e-151,
                   "identity": 472,
                   "query_from": 77,
                   "query_to": 624,
@@ -9195,7 +9195,7 @@
                   "num": 1,
                   "bit_score": 545.882,
                   "score": 295,
-                  "evalue": 2.59486e-150,
+                  "evalue": 2.67104e-150,
                   "identity": 475,
                   "query_from": 79,
                   "query_to": 636,
@@ -9213,7 +9213,7 @@
                   "num": 2,
                   "bit_score": 108.226,
                   "score": 58,
-                  "evalue": 1.45107e-18,
+                  "evalue": 1.49367e-18,
                   "identity": 74,
                   "query_from": 2,
                   "query_to": 83,
@@ -9246,7 +9246,7 @@
                   "num": 1,
                   "bit_score": 545.882,
                   "score": 295,
-                  "evalue": 2.59486e-150,
+                  "evalue": 2.67104e-150,
                   "identity": 481,
                   "query_from": 77,
                   "query_to": 636,
@@ -9264,7 +9264,7 @@
                   "num": 2,
                   "bit_score": 191.325,
                   "score": 103,
-                  "evalue": 1.40064e-43,
+                  "evalue": 1.44176e-43,
                   "identity": 212,
                   "query_from": 616,
                   "query_to": 865,
@@ -9297,7 +9297,7 @@
                   "num": 1,
                   "bit_score": 545.882,
                   "score": 295,
-                  "evalue": 2.59486e-150,
+                  "evalue": 2.67104e-150,
                   "identity": 487,
                   "query_from": 77,
                   "query_to": 636,
@@ -9330,7 +9330,7 @@
                   "num": 1,
                   "bit_score": 545.882,
                   "score": 295,
-                  "evalue": 2.59486e-150,
+                  "evalue": 2.67104e-150,
                   "identity": 481,
                   "query_from": 76,
                   "query_to": 635,
@@ -9348,7 +9348,7 @@
                   "num": 2,
                   "bit_score": 235.645,
                   "score": 127,
-                  "evalue": 6.3797e-57,
+                  "evalue": 6.56698e-57,
                   "identity": 216,
                   "query_from": 616,
                   "query_to": 865,
@@ -9381,7 +9381,7 @@
                   "num": 1,
                   "bit_score": 545.882,
                   "score": 295,
-                  "evalue": 2.59486e-150,
+                  "evalue": 2.67104e-150,
                   "identity": 480,
                   "query_from": 77,
                   "query_to": 638,
@@ -9414,7 +9414,7 @@
                   "num": 1,
                   "bit_score": 544.035,
                   "score": 294,
-                  "evalue": 9.33279e-150,
+                  "evalue": 9.60677e-150,
                   "identity": 479,
                   "query_from": 76,
                   "query_to": 636,
@@ -9454,7 +9454,7 @@
                   "num": 1,
                   "bit_score": 542.189,
                   "score": 293,
-                  "evalue": 3.35667e-149,
+                  "evalue": 3.45521e-149,
                   "identity": 481,
                   "query_from": 77,
                   "query_to": 635,
@@ -9487,7 +9487,7 @@
                   "num": 1,
                   "bit_score": 542.189,
                   "score": 293,
-                  "evalue": 3.35667e-149,
+                  "evalue": 3.45521e-149,
                   "identity": 490,
                   "query_from": 78,
                   "query_to": 638,
@@ -9520,7 +9520,7 @@
                   "num": 1,
                   "bit_score": 542.189,
                   "score": 293,
-                  "evalue": 3.35667e-149,
+                  "evalue": 3.45521e-149,
                   "identity": 477,
                   "query_from": 76,
                   "query_to": 636,
@@ -9553,7 +9553,7 @@
                   "num": 1,
                   "bit_score": 540.342,
                   "score": 292,
-                  "evalue": 1.20727e-148,
+                  "evalue": 1.24271e-148,
                   "identity": 482,
                   "query_from": 76,
                   "query_to": 638,
@@ -9593,7 +9593,7 @@
                   "num": 1,
                   "bit_score": 540.342,
                   "score": 292,
-                  "evalue": 1.20727e-148,
+                  "evalue": 1.24271e-148,
                   "identity": 474,
                   "query_from": 78,
                   "query_to": 634,
@@ -9626,7 +9626,7 @@
                   "num": 1,
                   "bit_score": 538.495,
                   "score": 291,
-                  "evalue": 4.34213e-148,
+                  "evalue": 4.4696e-148,
                   "identity": 473,
                   "query_from": 77,
                   "query_to": 636,
@@ -9659,7 +9659,7 @@
                   "num": 1,
                   "bit_score": 538.495,
                   "score": 291,
-                  "evalue": 4.34213e-148,
+                  "evalue": 4.4696e-148,
                   "identity": 474,
                   "query_from": 77,
                   "query_to": 636,
@@ -9677,7 +9677,7 @@
                   "num": 2,
                   "bit_score": 100.839,
                   "score": 54,
-                  "evalue": 2.42816e-16,
+                  "evalue": 2.49944e-16,
                   "identity": 92,
                   "query_from": 865,
                   "query_to": 975,
@@ -9710,7 +9710,7 @@
                   "num": 1,
                   "bit_score": 538.495,
                   "score": 291,
-                  "evalue": 4.34213e-148,
+                  "evalue": 4.4696e-148,
                   "identity": 487,
                   "query_from": 76,
                   "query_to": 636,
@@ -9743,7 +9743,7 @@
                   "num": 1,
                   "bit_score": 538.495,
                   "score": 291,
-                  "evalue": 4.34213e-148,
+                  "evalue": 4.4696e-148,
                   "identity": 468,
                   "query_from": 77,
                   "query_to": 626,
@@ -9776,7 +9776,7 @@
                   "num": 1,
                   "bit_score": 536.649,
                   "score": 290,
-                  "evalue": 1.56171e-147,
+                  "evalue": 1.60755e-147,
                   "identity": 489,
                   "query_from": 78,
                   "query_to": 638,
@@ -9809,7 +9809,7 @@
                   "num": 1,
                   "bit_score": 536.649,
                   "score": 290,
-                  "evalue": 1.56171e-147,
+                  "evalue": 1.60755e-147,
                   "identity": 482,
                   "query_from": 76,
                   "query_to": 635,
@@ -9842,7 +9842,7 @@
                   "num": 1,
                   "bit_score": 536.649,
                   "score": 290,
-                  "evalue": 1.56171e-147,
+                  "evalue": 1.60755e-147,
                   "identity": 479,
                   "query_from": 76,
                   "query_to": 636,
@@ -9882,7 +9882,7 @@
                   "num": 1,
                   "bit_score": 534.802,
                   "score": 289,
-                  "evalue": 5.6169e-147,
+                  "evalue": 5.78179e-147,
                   "identity": 475,
                   "query_from": 78,
                   "query_to": 636,
@@ -9915,7 +9915,7 @@
                   "num": 1,
                   "bit_score": 534.802,
                   "score": 289,
-                  "evalue": 5.6169e-147,
+                  "evalue": 5.78179e-147,
                   "identity": 486,
                   "query_from": 77,
                   "query_to": 636,
@@ -9948,7 +9948,7 @@
                   "num": 1,
                   "bit_score": 534.802,
                   "score": 289,
-                  "evalue": 5.6169e-147,
+                  "evalue": 5.78179e-147,
                   "identity": 486,
                   "query_from": 77,
                   "query_to": 636,
@@ -9981,7 +9981,7 @@
                   "num": 1,
                   "bit_score": 534.802,
                   "score": 289,
-                  "evalue": 5.6169e-147,
+                  "evalue": 5.78179e-147,
                   "identity": 478,
                   "query_from": 76,
                   "query_to": 636,
@@ -10014,7 +10014,7 @@
                   "num": 1,
                   "bit_score": 534.802,
                   "score": 289,
-                  "evalue": 5.6169e-147,
+                  "evalue": 5.78179e-147,
                   "identity": 467,
                   "query_from": 78,
                   "query_to": 625,
@@ -10047,7 +10047,7 @@
                   "num": 1,
                   "bit_score": 534.802,
                   "score": 289,
-                  "evalue": 5.6169e-147,
+                  "evalue": 5.78179e-147,
                   "identity": 479,
                   "query_from": 77,
                   "query_to": 636,
@@ -10080,7 +10080,7 @@
                   "num": 1,
                   "bit_score": 532.955,
                   "score": 288,
-                  "evalue": 2.02019e-146,
+                  "evalue": 2.0795e-146,
                   "identity": 484,
                   "query_from": 77,
                   "query_to": 636,
@@ -10120,7 +10120,7 @@
                   "num": 1,
                   "bit_score": 532.955,
                   "score": 288,
-                  "evalue": 2.02019e-146,
+                  "evalue": 2.0795e-146,
                   "identity": 484,
                   "query_from": 77,
                   "query_to": 636,
@@ -10160,7 +10160,7 @@
                   "num": 1,
                   "bit_score": 532.955,
                   "score": 288,
-                  "evalue": 2.02019e-146,
+                  "evalue": 2.0795e-146,
                   "identity": 473,
                   "query_from": 77,
                   "query_to": 636,
@@ -10193,7 +10193,7 @@
                   "num": 1,
                   "bit_score": 532.955,
                   "score": 288,
-                  "evalue": 2.02019e-146,
+                  "evalue": 2.0795e-146,
                   "identity": 473,
                   "query_from": 77,
                   "query_to": 636,
@@ -10226,7 +10226,7 @@
                   "num": 1,
                   "bit_score": 531.109,
                   "score": 287,
-                  "evalue": 7.26591e-146,
+                  "evalue": 7.47921e-146,
                   "identity": 468,
                   "query_from": 78,
                   "query_to": 626,
@@ -10244,7 +10244,7 @@
                   "num": 2,
                   "bit_score": 255.958,
                   "score": 138,
-                  "evalue": 4.89704e-63,
+                  "evalue": 5.0408e-63,
                   "identity": 213,
                   "query_from": 616,
                   "query_to": 865,
@@ -10277,7 +10277,7 @@
                   "num": 1,
                   "bit_score": 531.109,
                   "score": 287,
-                  "evalue": 7.26591e-146,
+                  "evalue": 7.47921e-146,
                   "identity": 488,
                   "query_from": 78,
                   "query_to": 638,
@@ -10310,7 +10310,7 @@
                   "num": 1,
                   "bit_score": 531.109,
                   "score": 287,
-                  "evalue": 7.26591e-146,
+                  "evalue": 7.47921e-146,
                   "identity": 488,
                   "query_from": 78,
                   "query_to": 638,
@@ -10343,7 +10343,7 @@
                   "num": 1,
                   "bit_score": 531.109,
                   "score": 287,
-                  "evalue": 7.26591e-146,
+                  "evalue": 7.47921e-146,
                   "identity": 475,
                   "query_from": 79,
                   "query_to": 636,
@@ -10361,7 +10361,7 @@
                   "num": 2,
                   "bit_score": 206.098,
                   "score": 111,
-                  "evalue": 5.00209e-48,
+                  "evalue": 5.14893e-48,
                   "identity": 207,
                   "query_from": 617,
                   "query_to": 865,
@@ -10394,7 +10394,7 @@
                   "num": 1,
                   "bit_score": 531.109,
                   "score": 287,
-                  "evalue": 7.26591e-146,
+                  "evalue": 7.47921e-146,
                   "identity": 478,
                   "query_from": 77,
                   "query_to": 636,
@@ -10427,7 +10427,7 @@
                   "num": 1,
                   "bit_score": 531.109,
                   "score": 287,
-                  "evalue": 7.26591e-146,
+                  "evalue": 7.47921e-146,
                   "identity": 468,
                   "query_from": 78,
                   "query_to": 626,
@@ -10445,7 +10445,7 @@
                   "num": 2,
                   "bit_score": 255.958,
                   "score": 138,
-                  "evalue": 4.89704e-63,
+                  "evalue": 5.0408e-63,
                   "identity": 213,
                   "query_from": 616,
                   "query_to": 865,
@@ -10485,7 +10485,7 @@
                   "num": 1,
                   "bit_score": 529.262,
                   "score": 286,
-                  "evalue": 2.61329e-145,
+                  "evalue": 2.69e-145,
                   "identity": 485,
                   "query_from": 77,
                   "query_to": 636,
@@ -10518,7 +10518,7 @@
                   "num": 1,
                   "bit_score": 529.262,
                   "score": 286,
-                  "evalue": 2.61329e-145,
+                  "evalue": 2.69e-145,
                   "identity": 481,
                   "query_from": 78,
                   "query_to": 635,
@@ -10551,7 +10551,7 @@
                   "num": 1,
                   "bit_score": 529.262,
                   "score": 286,
-                  "evalue": 2.61329e-145,
+                  "evalue": 2.69e-145,
                   "identity": 479,
                   "query_from": 77,
                   "query_to": 635,
@@ -10584,7 +10584,7 @@
                   "num": 1,
                   "bit_score": 529.262,
                   "score": 286,
-                  "evalue": 2.61329e-145,
+                  "evalue": 2.69e-145,
                   "identity": 475,
                   "query_from": 77,
                   "query_to": 633,
@@ -10602,7 +10602,7 @@
                   "num": 2,
                   "bit_score": 270.731,
                   "score": 146,
-                  "evalue": 1.74887e-67,
+                  "evalue": 1.80021e-67,
                   "identity": 215,
                   "query_from": 617,
                   "query_to": 863,
@@ -10635,7 +10635,7 @@
                   "num": 1,
                   "bit_score": 529.262,
                   "score": 286,
-                  "evalue": 2.61329e-145,
+                  "evalue": 2.69e-145,
                   "identity": 475,
                   "query_from": 77,
                   "query_to": 633,
@@ -10653,7 +10653,7 @@
                   "num": 2,
                   "bit_score": 270.731,
                   "score": 146,
-                  "evalue": 1.74887e-67,
+                  "evalue": 1.80021e-67,
                   "identity": 215,
                   "query_from": 617,
                   "query_to": 863,
@@ -10686,7 +10686,7 @@
                   "num": 1,
                   "bit_score": 529.262,
                   "score": 286,
-                  "evalue": 2.61329e-145,
+                  "evalue": 2.69e-145,
                   "identity": 480,
                   "query_from": 77,
                   "query_to": 635,
@@ -10719,7 +10719,7 @@
                   "num": 1,
                   "bit_score": 527.415,
                   "score": 285,
-                  "evalue": 9.39905e-145,
+                  "evalue": 9.67498e-145,
                   "identity": 482,
                   "query_from": 76,
                   "query_to": 636,
@@ -10752,7 +10752,7 @@
                   "num": 1,
                   "bit_score": 527.415,
                   "score": 285,
-                  "evalue": 9.39905e-145,
+                  "evalue": 9.67498e-145,
                   "identity": 484,
                   "query_from": 77,
                   "query_to": 636,
@@ -10785,7 +10785,7 @@
                   "num": 1,
                   "bit_score": 527.415,
                   "score": 285,
-                  "evalue": 9.39905e-145,
+                  "evalue": 9.67498e-145,
                   "identity": 473,
                   "query_from": 79,
                   "query_to": 634,
@@ -10818,7 +10818,7 @@
                   "num": 1,
                   "bit_score": 527.415,
                   "score": 285,
-                  "evalue": 9.39905e-145,
+                  "evalue": 9.67498e-145,
                   "identity": 471,
                   "query_from": 77,
                   "query_to": 636,
@@ -10851,7 +10851,7 @@
                   "num": 1,
                   "bit_score": 525.569,
                   "score": 284,
-                  "evalue": 3.3805e-144,
+                  "evalue": 3.47974e-144,
                   "identity": 482,
                   "query_from": 78,
                   "query_to": 638,
@@ -10884,7 +10884,7 @@
                   "num": 1,
                   "bit_score": 523.722,
                   "score": 283,
-                  "evalue": 1.21584e-143,
+                  "evalue": 1.25154e-143,
                   "identity": 470,
                   "query_from": 79,
                   "query_to": 636,
@@ -10924,7 +10924,7 @@
                   "num": 1,
                   "bit_score": 523.722,
                   "score": 283,
-                  "evalue": 1.21584e-143,
+                  "evalue": 1.25154e-143,
                   "identity": 472,
                   "query_from": 76,
                   "query_to": 636,
@@ -10964,7 +10964,7 @@
                   "num": 1,
                   "bit_score": 523.722,
                   "score": 283,
-                  "evalue": 1.21584e-143,
+                  "evalue": 1.25154e-143,
                   "identity": 472,
                   "query_from": 79,
                   "query_to": 636,
@@ -11004,7 +11004,7 @@
                   "num": 1,
                   "bit_score": 523.722,
                   "score": 283,
-                  "evalue": 1.21584e-143,
+                  "evalue": 1.25154e-143,
                   "identity": 477,
                   "query_from": 77,
                   "query_to": 635,
@@ -11037,7 +11037,7 @@
                   "num": 1,
                   "bit_score": 521.875,
                   "score": 282,
-                  "evalue": 4.37295e-143,
+                  "evalue": 4.50133e-143,
                   "identity": 483,
                   "query_from": 77,
                   "query_to": 636,
@@ -11055,8 +11055,8 @@
             }
           ],
           "stat": {
-            "db_num": 75822088,
-            "db_len": 1498479214,
+            "db_num": 76474009,
+            "db_len": 1201323862,
             "hsp_len": 0,
             "eff_space": 0,
             "kappa": 0.46,
