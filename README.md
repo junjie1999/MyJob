@@ -1,11 +1,11 @@
 # MyTask1
 
 ## Setup
-Install python from https://www.python.org/downloads/, version py 3.8 are recommended to run the packages included.
-Download vscode from https://code.visualstudio.com/.
-Download the python from vscode extension.
-Download the packages that included using pip.
-Run the ipynb file.
+1. Install python from https://www.python.org/downloads/, version py 3.8 are recommended to run the packages included.
+2. Download vscode from https://code.visualstudio.com/.
+3. Download the python from vscode extension.
+4. Download the packages that included using pip.
+5. Run the ipynb file.
 
 ## Packages included
 To run these ipynb and py format file, first install python3.
