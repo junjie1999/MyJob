@@ -8,8 +8,6 @@
 5. Run the ipynb file.
 
 ## Packages included
-To run these ipynb and py format file, first install python3.
-Then install packages:
 
 ```
 $ pip install jupyter notebook
